@@ -49,3 +49,11 @@ Your submission will be reviewed against:
 * **Code Craftsmanship:** Clean separation of concerns, optimized re-renders, and proper cleanup of persistent socket listeners.
 
 Good luck! We look forward to evaluating your build. 🚀
+
+---
+
+## ⏳ Deadline & Timeline
+
+* **Submission Window:** You have **7 days** from the receipt of this challenge to submit your complete repository and deliverables.
+* **Hard Deadline:** **Thursday, June 25, 2026** at **11:59 PM UTC**.
+* **Extensions:** We respect your time and existing commitments. If you need a reasonable extension due to work or personal circumstances, please request it at least **24 hours before** the deadline. Unannounced late submissions will not be reviewed.
